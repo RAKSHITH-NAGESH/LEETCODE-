@@ -1,2 +1,2 @@
-# LEETCODE-
+# LEETCODE
 learning and improving code knowledge  
